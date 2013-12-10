@@ -1,4 +1,4 @@
 MyShop
 ======
 
-this is a e-shop!
+this is my e-shop!
